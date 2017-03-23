@@ -46,7 +46,7 @@
 		    <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 	    </repository>
     </repositories>
-    <build>
+   <!--<build>
        <finalName>Nareshflipkart</finalName>
-    </build>
+    </build>-->
 </project>
