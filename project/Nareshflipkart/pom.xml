@@ -47,6 +47,6 @@
 	    </repository>
     </repositories>
     <build>
-       <fileName>Nareshflipkart</fileName>
+       <fileName>Nareshflipkart</finalName>
     </build>
 </project>
